@@ -1,0 +1,130 @@
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.pdb
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Owin.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.pdb
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.pdb
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.pdb
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.dll.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.dll.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.dll.config
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.Tests.pdb
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Owin.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno.Tests\obj\Debug\Celebreno.Tests.pdb

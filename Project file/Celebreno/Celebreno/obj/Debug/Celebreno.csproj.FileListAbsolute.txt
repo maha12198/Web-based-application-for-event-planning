@@ -1,0 +1,1193 @@
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\7\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\7\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\9 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\now\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\11 - Copy\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Net.Http.Formatting.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Http.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Http.WebHost.dll
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Net.Http.Formatting.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Http.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\System.Web.Http.WebHost.xml
+D:\CCE\Level 4\Web Programming\project file\Celebreno\Celebreno\bin\Elmah.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Elmah.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\PayPal.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Net.Http.Formatting.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Http.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Http.WebHost.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\PayPal.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Net.Http.Formatting.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Http.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Http.WebHost.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\23\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Elmah.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Net.Http.Formatting.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Http.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Http.WebHost.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Net.Http.Formatting.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Http.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Http.WebHost.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.InitialCreate.resources
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.GenerateResource.cache
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.newfields.resources
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Net.Http.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\Project New\Celebreno\Celebreno\bin\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Celebreno.dll.config
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\csc.exe
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\csc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\csi.exe
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\csi.rsp
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\vbc.exe
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Elmah.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Owin.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Net.Http.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Net.Http.Formatting.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Http.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Http.WebHost.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Providers.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\WebGrease.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Net.Http.Formatting.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Http.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Http.WebHost.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\System.Web.Providers.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.InitialCreate.resources
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.newfields.resources
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.GenerateResource.cache
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+D:\CCE\Level 4\Web Programming\BackUps\28\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Net.Http.dll
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Algorithms.dll
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Encoding.dll
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Primitives.dll
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.X509Certificates.dll
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.InitialCreate.resources
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.newfields.resources
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.GenerateResource.cache
+D:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Celebreno.dll.config
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Celebreno.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Celebreno.pdb
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csc.exe
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csc.rsp
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csi.exe
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csi.rsp
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\vbc.exe
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Elmah.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Owin.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Net.Http.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Net.Http.Formatting.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Algorithms.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Encoding.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Primitives.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.X509Certificates.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.WebHost.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Providers.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\WebGrease.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Net.Http.Formatting.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.WebHost.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Providers.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csprojAssemblyReference.cache
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.InitialCreate.resources
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.newfields.resources
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.GenerateResource.cache
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+M:\CCE\Level 4\Done\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Celebreno.dll.config
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Celebreno.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Celebreno.pdb
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csc.exe
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csc.exe.config
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csc.rsp
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csi.exe
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csi.exe.config
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\csi.rsp
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.Managed.Core.targets
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.AppContext.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Collections.Immutable.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Console.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.Compression.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.IO.Pipes.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Reflection.Metadata.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.AccessControl.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Claims.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Security.Principal.Windows.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.ValueTuple.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XmlDocument.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\vbc.exe
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\vbc.exe.config
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\vbc.rsp
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\roslyn\VBCSCompiler.exe.config
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Antlr3.Runtime.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\AspNet.ScriptManager.bootstrap.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\AspNet.ScriptManager.jQuery.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Elmah.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.SqlServer.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.ScriptManager.MSAjax.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.ScriptManager.WebForms.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Web.Infrastructure.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Newtonsoft.Json.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Owin.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Net.Http.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Net.Http.Formatting.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Algorithms.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Encoding.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.Primitives.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Security.Cryptography.X509Certificates.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.WebHost.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Optimization.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Providers.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\WebGrease.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.OAuth.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Net.Http.Formatting.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Http.WebHost.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Optimization.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Newtonsoft.Json.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Antlr3.Runtime.pdb
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.FriendlyUrls.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\EntityFramework.SqlServer.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Core.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\System.Web.Providers.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Facebook.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Google.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.Twitter.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.InitialCreate.resources
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.Migrations.newfields.resources
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.GenerateResource.cache
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CoreCompileInputs.cache
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.CopyComplete
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.dll
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.pdb
+M:\CCE\Level 4\Web Programming\Project file\Celebreno\Celebreno\obj\Debug\Celebreno.csproj.AssemblyReference.cache
