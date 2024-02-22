@@ -48,7 +48,7 @@ namespace Celebreno
         }
 
         //5
-        //decalare function to add routes to the web application
+        //declare function to add routes to the web application
         void RegisterNewRoutes(RouteCollection routes)
         {
             //add the routes by calling the MapPageRoute method of the RouteCollection object
